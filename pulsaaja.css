@@ -1,0 +1,12 @@
+.navbar {
+	margin-bottom:0;
+}
+.navbar-brand {
+	padding-top:7px;
+}
+.jumbotron {
+	padding-top: 5px;
+}
+ span:first-child .container .jumbotron{
+	margin-bottom: 10px;
+}
